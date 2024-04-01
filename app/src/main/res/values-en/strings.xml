@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RafajecKalkulator</string>
+    <string name="result">Mileage:</string>
+    <string name="liters">Liters:</string>
+    <string name="distance">Distance(km):</string>
+    <string name="calculate">Calculate:</string>
+    <string name="white">White</string>
+    <string name="lightGrey">Light Grey</string>
+    <string name="purple">Purple</string>
+    <string name="lightYellow">Light Yellow</string>
+</resources>

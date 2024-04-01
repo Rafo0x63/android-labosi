@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RafajecKalkulator</string>
+    <string name="result">Consumptie:</string>
+    <string name="liters">Liter:</string>
+    <string name="distance">Afstand(km):</string>
+    <string name="calculate">Berekenen:</string>
+    <string name="white">Wit</string>
+    <string name="lightGrey">Lichtgrijs</string>
+    <string name="purple">Paars</string>
+    <string name="lightYellow">Licht geel</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RafajecKalkulator</string>
+    <string name="result">Potrosnja:</string>
+    <string name="liters">Litre:</string>
+    <string name="distance">Prijedeni put(km):</string>
+    <string name="calculate">Izracunaj</string>
+
+    <string name="white">Bijela</string>
+    <string name="lightGrey">Svijetlo Siva</string>
+    <string name="purple">Ljubicasta</string>
+    <string name="lightYellow">Svijetlo zuta</string>
+</resources>
