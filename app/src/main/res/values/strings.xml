@@ -5,6 +5,7 @@
     <string name="distance">Prijedeni put(km):</string>
     <string name="calculate">Izracunaj</string>
 
+    <string name="colorSpinnerLabel">Odaberi boju pozadine:</string>
     <string name="white">Bijela</string>
     <string name="lightGrey">Svijetlo Siva</string>
     <string name="purple">Ljubicasta</string>

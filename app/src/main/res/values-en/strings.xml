@@ -5,6 +5,7 @@
     <string name="liters">Liters:</string>
     <string name="distance">Distance(km):</string>
     <string name="calculate">Calculate:</string>
+    <string name="colorSpinnerLabel">Choose background color:</string>
     <string name="white">White</string>
     <string name="lightGrey">Light Grey</string>
     <string name="purple">Purple</string>

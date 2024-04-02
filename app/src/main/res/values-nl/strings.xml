@@ -5,6 +5,7 @@
     <string name="liters">Liter:</string>
     <string name="distance">Afstand(km):</string>
     <string name="calculate">Berekenen:</string>
+    <string name="colorSpinnerLabel">Kies achtergroundkleur:</string>
     <string name="white">Wit</string>
     <string name="lightGrey">Lichtgrijs</string>
     <string name="purple">Paars</string>
